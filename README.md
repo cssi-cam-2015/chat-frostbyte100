@@ -1,1 +1,4 @@
-# chat-frostbyte100
+google-edge-chat
+================
+
+Example chat app for Google Edge students.
